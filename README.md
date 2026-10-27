@@ -39,3 +39,9 @@ Budget contributes up to 30 points, timeline up to 25, company size up to 20, an
 
 ## Next steps
 Add CRM adapters behind an interface, calibration against historical outcomes, audit logging, and access controls before handling customer data. Never use this score as the sole basis for high-impact decisions.
+
+## Explore more
+
+- [Agentic Sales Outreach Copilot](https://github.com/HardikPaghdar/agentic-sales-outreach-copilot) — drafts outreach for human review.
+- [LLM Cost Optimization Gateway](https://github.com/HardikPaghdar/llm-cost-optimization-gateway) — policy-based model selection prototype.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
